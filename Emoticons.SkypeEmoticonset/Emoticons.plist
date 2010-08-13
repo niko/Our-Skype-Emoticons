@@ -1112,6 +1112,18 @@
         </array>
       </dict>
       
+      <key>floere.png</key>
+      <dict>
+        <key>ID</key>
+        <string>floere</string>
+        <key>Name</key>
+        <string>floere</string>
+        <key>Equivalents</key>
+        <array>
+          <string>(floere)</string>
+        </array>
+      </dict>
+      
       <key>restorm.png</key>
       <dict>
         <key>ID</key>
