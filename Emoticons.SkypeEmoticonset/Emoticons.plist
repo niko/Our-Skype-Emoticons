@@ -1098,6 +1098,17 @@
           <string>(laut)</string>
         </array>
       </dict>
+      <key>niko.png</key>
+      <dict>
+        <key>ID</key>
+        <string>niko</string>
+        <key>Name</key>
+        <string>niko</string>
+        <key>Equivalents</key>
+        <array>
+          <string>(niko)</string>
+        </array>
+      </dict>
     </dict>
     <key>SkypeSetVersion</key>
     <integer>2</integer>
