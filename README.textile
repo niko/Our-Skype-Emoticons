@@ -1,4 +1,5 @@
 Git to the rescue! Shared Skype Emoticons for me and my friends.
 
 !http://github.com/niko/Our-Skype-Emoticons/raw/master/Emoticons.SkypeEmoticonset/niko.png!
+!http://github.com/niko/Our-Skype-Emoticons/raw/master/Emoticons.SkypeEmoticonset/LautKopf.png!
 !http://github.com/niko/Our-Skype-Emoticons/raw/master/Emoticons.SkypeEmoticonset/restorm.png!
