@@ -1087,6 +1087,7 @@
           <string>(heidy)</string>
         </array>
       </dict>
+      
       <key>LautKopf.png</key>
       <dict>
         <key>ID</key>
@@ -1098,6 +1099,7 @@
           <string>(laut)</string>
         </array>
       </dict>
+      
       <key>niko.png</key>
       <dict>
         <key>ID</key>
@@ -1109,7 +1111,20 @@
           <string>(niko)</string>
         </array>
       </dict>
+      
+      <key>restorm.png</key>
+      <dict>
+        <key>ID</key>
+        <string>restorm</string>
+        <key>Name</key>
+        <string>restorm</string>
+        <key>Equivalents</key>
+        <array>
+          <string>(restorm)</string>
+        </array>
+      </dict>
     </dict>
+    
     <key>SkypeSetVersion</key>
     <integer>2</integer>
   </dict>

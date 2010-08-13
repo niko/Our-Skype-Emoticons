@@ -1098,6 +1098,7 @@
           <string>(myspace)</string>
         </array>
       </dict>
+      
       <key>LautKopf.gif</key>
       <dict>
         <key>ID</key>
@@ -1109,6 +1110,7 @@
           <string>(laut)</string>
         </array>
       </dict>
+      
       <key>niko.gif</key>
       <dict>
         <key>ID</key>
@@ -1120,7 +1122,20 @@
           <string>(niko)</string>
         </array>
       </dict>
+      
+      <key>restorm.gif</key>
+      <dict>
+        <key>ID</key>
+        <string>restorm</string>
+        <key>Name</key>
+        <string>restorm</string>
+        <key>Equivalents</key>
+        <array>
+          <string>(restorm)</string>
+        </array>
+      </dict>
     </dict>
+    
     <key>SkypeSetVersion</key>
     <integer>2</integer>
   </dict>
