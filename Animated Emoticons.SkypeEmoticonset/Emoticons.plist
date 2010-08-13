@@ -1146,6 +1146,18 @@
           <string>(restorm)</string>
         </array>
       </dict>
+      <key>mad.gif</key>
+      <dict>
+        <key>ID</key>
+        <string>mad</string>
+        <key>Name</key>
+        <string>mad</string>
+        <key>Equivalents</key>
+        <array>
+          <string>(mad)</string>
+        </array>
+      </dict>
+    
     </dict>
     
     <key>SkypeSetVersion</key>
